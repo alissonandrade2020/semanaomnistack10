@@ -26,7 +26,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
@@ -60,4 +59,26 @@ Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utiliz
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
+
+##Descrição:
+Autor: Alisson de Andrade Araujo"
+
+E-mail: alisson2d@hotmail.com
+
+Github: alissonandrade2020
+
+##CONHEÇA MAIS SOBRE O DEV:
+Site Principal do Dev: http://alissondeandradearaujo.000webhostapp.com/
+
+Site Dev: https://alissonandradesistema.000webhostapp.com/react/
+
+Site Dev: http://alissodeaaraujo.000webhostapp.com/index.html
+
+Site Dev: https://alissondeaaraujosistema.000webhostapp.com/
+
+Site Dev: https://alissonandradesistema.000webhostapp.com/
+
+Site Dev: https://alissonandradearaujosistema.000webhostapp.com/
+
+Site Dev: https://alissondeaaraujo.000webhostapp.com/index.html"
 
