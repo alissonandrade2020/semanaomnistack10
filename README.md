@@ -60,14 +60,15 @@ Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utiliz
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
-##Descrição:
+## Descrição:
 Autor: Alisson de Andrade Araujo"
 
 E-mail: alisson2d@hotmail.com
 
 Github: alissonandrade2020
 
-##CONHEÇA MAIS SOBRE O DEV:
+## CONHEÇA MAIS SOBRE O DEV:
+
 Site Principal do Dev: http://alissondeandradearaujo.000webhostapp.com/
 
 Site Dev: https://alissonandradesistema.000webhostapp.com/react/
@@ -81,4 +82,3 @@ Site Dev: https://alissonandradesistema.000webhostapp.com/
 Site Dev: https://alissonandradearaujosistema.000webhostapp.com/
 
 Site Dev: https://alissondeaaraujo.000webhostapp.com/index.html"
-
